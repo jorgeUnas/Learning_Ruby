@@ -1,3 +1,4 @@
+# This program calculates your age
 result = ''
 
 loop do
