@@ -1,0 +1,6 @@
+# Use this file to install all the gems and then run bundle install on the console
+source 'https://rubygems.org'
+ 
+gem 'os'
+gem "cpf_cnpj"
+gem "nokogiri"

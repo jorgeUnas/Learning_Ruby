@@ -1,0 +1,9 @@
+coffee 
+oranges
+cheese 
+bananas
+rice
+beans
+oliveoilrice
+beans
+olive oil
